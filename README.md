@@ -1,0 +1,2 @@
+# basicauthentication
+In this video, we will create small spring boot application,  we will secure rest endpoint with basic authentication and authorization. we will extend WebSecurityConfigurerAdapter class.  ############################## GIT URI-  https://github.com/manyu235/examples.git​ #################################  what is spring ! what is spring boot ! authentication and authorization ! disable csrf ! what is fully authenticated ! what is in memory authentication ! use eclipse and postman tool !
